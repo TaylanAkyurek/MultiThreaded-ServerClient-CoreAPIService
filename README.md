@@ -1,1 +1,0 @@
-# TaylanAkyurek-MultiThreaded-ServerClient-CoreAPIService
